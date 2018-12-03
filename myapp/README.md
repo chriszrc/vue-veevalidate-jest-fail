@@ -9,6 +9,7 @@ Select:
 * Unit Tests -> Jest
 
 npm install vee-validate --save
+npm install flush-promises --save-dev
 
 ## Project setup
 ```
