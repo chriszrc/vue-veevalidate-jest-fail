@@ -1,0 +1,1 @@
+# vue-veevalidate-jest-fail
